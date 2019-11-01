@@ -1,3 +1,3 @@
 wpu resolusi
--saya ingin membuat web yang mengajarkan bahasa pemrograman
+-membuat vlog bahasa c++
 -membuat forum yang mengumpulka banyak programer
